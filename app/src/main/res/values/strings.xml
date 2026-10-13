@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Spider City</string>
+
+    <!-- Navigation Tabs -->
+    <string name="nav_open_world">Open World</string>
+    <string name="nav_missions">Missions</string>
+    <string name="nav_suits_tech">Suits &amp; Tech</string>
+    <string name="nav_city_map">City Map</string>
+
+    <!-- HUD & Open World Controls -->
+    <string name="hud_free_roam">FREE ROAM PATROL</string>
+    <string name="hud_active_mission">ACTIVE MISSION</string>
+    <string name="hud_speed_unit">m/s</string>
+    <string name="hud_altitude_unit">m ALT</string>
+    <string name="hud_combo_prefix">COMBO x</string>
+    <string name="hud_focus_ready">ULTIMATE READY!</string>
+    <string name="hud_spider_sense_alert">SPIDER-SENSE TINGLING! DODGE!</string>
+    <string name="hud_mission_beacon_nearby">MISSION BEACON NEARBY</string>
+    <string name="hud_backpack_nearby">SPIDER-BACKPACK DETECTED NEARBY</string>
+
+    <!-- Control Buttons -->
+    <string name="btn_swing_hold">HOLD SWING</string>
+    <string name="btn_web_zip">WEB ZIP</string>
+    <string name="btn_web_strike">STRIKE</string>
+    <string name="btn_web_shot">WEB SHOT</string>
+    <string name="btn_dodge">DODGE</string>
+    <string name="btn_ultimate">ULTIMATE</string>
+    <string name="btn_start_nearby_mission">ENGAGE MISSION</string>
+    <string name="btn_abort_mission">ABORT</string>
+    <string name="btn_pause_game">Pause Game</string>
+    <string name="btn_resume_game">Resume Patrol</string>
+    <string name="btn_recenter_camera">Reset Position</string>
+    <string name="btn_toggle_time_of_day">Cycle Time of Day</string>
+
+    <!-- Mission Hub & Briefing -->
+    <string name="missions_header_title">SPIDER-NETWORK DISPATCH</string>
+    <string name="missions_header_subtitle">NYPD Scanner &amp; Hero Operations Across 5 Districts</string>
+    <string name="missions_filter_all">All Ops</string>
+    <string name="missions_filter_story">Story &amp; Boss</string>
+    <string name="missions_filter_patrol">Crime &amp; Rescue</string>
+    <string name="missions_filter_trial">Time Trials</string>
+    <string name="mission_launch_btn">DEPLOY TO MISSION</string>
+    <string name="mission_replay_btn">REPLAY MISSION</string>
+    <string name="mission_locate_on_map">WAYPOINT</string>
+    <string name="mission_completed_badge">COMPLETED</string>
+    <string name="mission_victory_title">MISSION ACCOMPLISHED!</string>
+    <string name="mission_failed_title">MISSION FAILED</string>
+    <string name="mission_continue_patrol">RETURN TO OPEN WORLD</string>
+    <string name="mission_retry_btn">RETRY MISSION</string>
+
+    <!-- Suits & Tech Armory -->
+    <string name="suits_header_title">SPIDER-ARMORY &amp; TECH LAB</string>
+    <string name="suits_header_subtitle">Craft Advanced Suits &amp; Upgrade Web-Shooter Systems</string>
+    <string name="suit_equipped_label">EQUIPPED</string>
+    <string name="suit_equip_btn">EQUIP SUIT</string>
+    <string name="suit_craft_btn">CRAFT SUIT</string>
+    <string name="upgrades_section_title">GADGET &amp; traversal UPGRADES</string>
+    <string name="upgrade_max_level">MAXED</string>
+    <string name="upgrade_enhance_btn">UPGRADE</string>
+
+    <!-- City Map & Districts -->
+    <string name="map_header_title">MANHATTAN TACTICAL RADAR</string>
+    <string name="map_header_subtitle">Fast-Travel to Districts, Track Backpacks &amp; Liberation Status</string>
+    <string name="map_fast_travel_btn">FAST TRAVEL &amp; SWING HERE</string>
+    <string name="map_backpacks_section">ROOFTOP SPIDER-BACKPACKS</string>
+    <string name="map_liberation_label">District Liberation</string>
+</resources>

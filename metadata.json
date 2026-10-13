@@ -1,0 +1,6 @@
+{
+  "name": "Spider City",
+  "description": "An open-world Spider-Hero physics web-swinging action game featuring Manhattan districts, dynamic crime patrols, boss showdowns, suit upgrades, and story missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
